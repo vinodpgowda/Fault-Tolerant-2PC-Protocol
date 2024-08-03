@@ -38,7 +38,7 @@ The project is divided into four parts, each addressing different failure scenar
   - `coordinator.py`
   - `participant.py`
   - `README.md`
-- `Project_Report.md`
+- `Report.pdf`
 
 ## Setup and Execution
 
